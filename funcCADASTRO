@@ -1,0 +1,26 @@
+#Protótio da função cadastro (https://repl.it/IzdX/1)
+funcionario=['joao']
+
+def cadastro(original):
+  #cria o campo a ser adicionado
+  add=[]
+  add=raw_input("Digite o novo funcionario")
+  original.append(add)
+  
+
+def menu():
+  print "MENU CADASTRO"
+  print "1 - CADASTRO"
+  print "2 - LISTAR"
+  print "3 - SAIR"
+  opc=raw_input("Digite a opção: ")
+  if opc == '1':
+    cadastro(funcionario)
+  if opc == '2':
+    print funcionario
+  if opc == '3':
+    print "Fim"
+  menu()
+  
+menu()
+    
