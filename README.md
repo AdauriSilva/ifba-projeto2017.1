@@ -19,5 +19,5 @@ fabricadaconsiderando o a disponibilidade de produtos quımicos necessarios e de
 independentemente da existencia de produtos quımicos em estoque.
 ```
 link de teste do código:
-(https://repl.it/IuXo/36)
+(https://repl.it/IuXo/38)
 atualizado em 23/06/2017 19:36 
