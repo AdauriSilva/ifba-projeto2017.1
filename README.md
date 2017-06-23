@@ -18,3 +18,6 @@ fabricadaconsiderando o a disponibilidade de produtos quımicos necessarios e de
 • Informa qual medicamento possui o maior numero de funcionarios habilitados para sua producao,
 independentemente da existencia de produtos quımicos em estoque.
 ```
+link de teste do código:
+(https://repl.it/IuXo/4)
+atualizado em 20/06/2017 18:06 
